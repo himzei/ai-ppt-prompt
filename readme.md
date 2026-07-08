@@ -1,4 +1,4 @@
-https://getdesign.md/bmw-m/design-md
+https://getdesign.md/
 
 * 나는 지금 클로드에서 PPT를 만들기 위한 프롬프트이자 디자인 시스템 설정 프롬프트를 쓰는 중이야 아래 내 요청을 반영해서 프롬프트를 수정해줘.
 * 폰트는 오직 Pretendard만 사용해야 하며, 다른 폰트는 안 씀. (내가 올린 파일 참고)
